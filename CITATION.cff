@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "THIS PAPER ISN'T PEER REVIEWED. However, if it's of use to you, please cite it as below."
+authors:
+- family-names: "Kateryna Lauterbach"
+  given-names: "kateryna_lauterbach"
+title: "Integrating Non-EU Digital Credentials with EDCL"
+version: 1.0.0
+date-released: 2026-11-27
+url: "https://github.com/k-laut/edcl-ukraine-credential-integration"
